@@ -1,0 +1,147 @@
+[
+    {
+        "filename": "title.md",
+        "attr": {
+            "data-background": "../resources/graticule.png"
+        }
+    },
+    {
+        "filename": "how-should-it-look-1.md",
+        "attr": {
+            "data-background": "../resources/graticule.png",
+            "data-state": "blur"
+        }
+    },
+    {
+        "filename": "main-challenge.md",
+        "attr": {
+            "data-background": "../resources/graticule.png",
+            "data-state": "blur"
+        }
+    },
+    {
+        "filename": "what-we-need-1.md",
+        "attr": {
+            "data-background": "../resources/graticule.png",
+            "data-state": "blur"
+        }
+    },
+    [
+        {
+            "filename": "satin.md",
+            "attr": {
+                "data-background": "../resources/back2.jpg",
+                "data-state": "blur"
+            }
+        },
+        {
+            "filename": "satin-provides.md",
+            "attr": {
+                "data-background": "../resources/graticule.png",
+                "data-state": "blur"
+            }
+        }
+    ],
+    [
+        {
+            "filename": "we-have-data.md",
+            "attr": {
+                "data-background": "../resources/graticule.png",
+                "data-state": "blur"
+            }
+        },
+        {
+            "filename": "put-on-map.md",
+            "attr": {
+                "data-background": "../resources/graticule.png",
+                "data-state": "blur"
+            }
+        }
+    ],
+    [
+        {
+            "filename": "arctic-portal-syntool.md",
+            "attr": {
+                "data-background": "../resources/back2.jpg",
+                "data-state": "blur"
+            }
+        },
+        {
+            "filename": "syntool-on-map.md",
+            "attr": {
+                "data-background": "../resources/back2.jpg",
+                "data-state": "blur"
+            }
+        },
+        {
+            "filename": "syntool-on-map-example.md",
+            "attr": {
+                "data-background": "../resources/back2.jpg",
+                "data-state": "blur"
+            }
+        },
+        {
+            "filename": "syntool-transparency.md",
+            "attr": {
+                "data-background": "../resources/back2.jpg",
+                "data-state": "blur"
+            }
+        },
+        {
+            "filename": "syntool-transparency-example.md",
+            "attr": {
+                "data-background": "../resources/back2.jpg",
+                "data-state": "blur"
+            }
+        },
+        {
+            "filename": "syntool-timeline.md",
+            "attr": {
+                "data-background": "../resources/back2.jpg",
+                "data-state": "blur"
+            }
+        },
+        {
+            "filename": "syntool-dynamic.md",
+            "attr": {
+                "data-background": "../resources/back2.jpg",
+                "data-state": "blur"
+            }
+        },
+        {
+            "filename": "syntool-vector.md",
+            "attr": {
+                "data-background": "../resources/back2.jpg",
+                "data-state": "blur"
+            }
+        },
+        {
+            "filename": "syntool-vector-2.md",
+            "attr": {
+                "data-background": "../resources/back2.jpg",
+                "data-state": "blur"
+            }
+        },
+        {
+            "filename": "syntool-vector-3.md",
+            "attr": {
+                "data-background": "../resources/back2.jpg",
+                "data-state": "blur"
+            }
+        },
+        {
+            "filename": "syntool-sar.md",
+            "attr": {
+                "data-background": "../resources/back2.jpg",
+                "data-state": "blur"
+            }
+        },
+        {
+            "filename": "syntool-sar-2.md",
+            "attr": {
+                "data-background": "../resources/back2.jpg",
+                "data-state": "blur"
+            }
+        }
+    ]
+]
