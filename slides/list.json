@@ -62,7 +62,7 @@
         {
             "filename": "arctic-portal-syntool.md",
             "attr": {
-                "data-background": "../resources/back2.jpg",
+                "data-background": "../resources/graticule.png",
                 "data-state": "blur"
             }
         },
@@ -143,5 +143,70 @@
                 "data-state": "blur"
             }
         }
-    ]
+    ],
+    {
+        "filename": "whats-next.md",
+        "attr": {
+            "data-background": "../resources/back2.jpg",
+            "data-state": "blur"
+        }
+    },
+    {
+        "filename": "metadata.md",
+        "attr": {
+            "data-background": "../resources/back2.jpg",
+            "data-state": "blur"
+        }
+    },
+    {
+        "filename": "monitor.md",
+        "attr": {
+            "data-background": "../resources/back2.jpg",
+            "data-state": "blur"
+        }
+    },
+    [
+        {
+            "filename": "odyssey.md",
+            "attr": {
+                "data-background": "../resources/graticule.png",
+                "data-state": "blur"
+            }
+        },
+        {
+            "filename": "odyssey-2.md",
+            "attr": {
+                "data-background": "../resources/graticule.png",
+                "data-state": "blur"
+            }
+        },
+        {
+            "filename": "odyssey-overview.md",
+            "attr": {
+                "data-background": "../resources/graticule.png",
+                "data-state": "blur"
+            }
+        }
+    ],
+    {
+        "filename": "arch.md",
+        "attr": {
+            "data-background": "../resources/back2.jpg",
+            "data-state": "blur"
+        }
+    },
+    {
+        "filename": "plans.md",
+        "attr": {
+            "data-background": "../resources/back2.jpg",
+            "data-state": "blur"
+        }
+    },
+    {
+        "filename": "end.md",
+        "attr": {
+            "data-background": "../resources/graticule.png",
+            "data-state": "blur"
+        }
+    }
 ]

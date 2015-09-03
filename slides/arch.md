@@ -1,0 +1,3 @@
+##  Архитектура
+
+![](resources/solabservices.png)
