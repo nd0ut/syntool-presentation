@@ -17,7 +17,7 @@
             <td class="fragment">
                 <h4>Форматов</h3>
                 <ul>
-                    <li>Binary</li>
+                    <li>Бинарный</li>
                     <li>ASCII</li>
                     <li>NetCDF</li>
                     <li>HDF</li>
@@ -28,9 +28,9 @@
             <td class="fragment">
                 <h4>А также</h3>
                 <ul>
-                    <li>Spatial resolutions</li>
-                    <li>Spatial coverages</li>
-                    <li>Temporal coverages</li>
+                    <li>Пространственное разрешение</li>
+                    <li>Пространственное покрытие</li>
+                    <li>Временное покрытие</li>
                 </ul>
             </td>
         </tr>
