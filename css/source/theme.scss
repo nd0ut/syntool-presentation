@@ -26,11 +26,13 @@ $backgroundColor: #222;
 $mainColor: #fff;
 $headingColor: #fff;
 
+$mainFont: Helvetica, sans-serif;
+$headingFont: Helvetica, sans-serif;
 $mainFontSize: 38px;
 $headingTextShadow: none;
 $headingLetterSpacing: normal;
 $headingTextTransform: uppercase;
-$headingFontWeight: 0;
+$headingFontWeight: bold;
 $linkColor: #42affa;
 $linkColorHover: lighten( $linkColor, 15% );
 $selectionBackgroundColor: lighten( $linkColor, 25% );
@@ -62,6 +64,6 @@ html.blur .backgrounds {
   max-height: 400px;
 }
 
-#title-footer {
-  height: 6vh;
+.reveal #title-footer p {
+  margin: 0;
 }

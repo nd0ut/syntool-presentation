@@ -1,8 +1,7 @@
 ##  Совместное отображение различных продуктов
 
-![](resources/syntool-animation-1.gif)
+![](resources/syntool-animation-ice.gif)
 
 <small>
-TrueColor, Sea Surface Temperature (both MODIS)
-and Scatterometer wind (ASCAT)
+TrueColor MODIS and ASI AMSRE Ice Concentration
 </small>

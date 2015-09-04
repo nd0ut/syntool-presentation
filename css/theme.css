@@ -15,7 +15,7 @@ body {
   background-color: #222; }
 
 .reveal {
-  font-family: 'Lato', sans-serif;
+  font-family: Helvetica, sans-serif;
   font-size: 38px;
   font-weight: normal;
   color: #fff; }
@@ -35,8 +35,8 @@ body {
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
   margin: 0 0 20px 0;
   color: #fff;
-  font-family: 'League Gothic', Impact, sans-serif;
-  font-weight: 0;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
   line-height: 1.2;
   letter-spacing: normal;
   text-transform: uppercase;
@@ -276,5 +276,5 @@ html.blur .backgrounds {
 .reveal section img {
   max-height: 400px; }
 
-#title-footer {
-  height: 6vh; }
+.reveal #title-footer p {
+  margin: 0; }

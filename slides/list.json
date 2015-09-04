@@ -40,6 +40,13 @@
                 "data-background": "../resources/graticule.png",
                 "data-state": "blur"
             }
+        },
+        {
+            "filename": "satin-granule.md",
+            "attr": {
+                "data-background": "../resources/graticule.png",
+                "data-state": "blur"
+            }
         }
     ],
     [
@@ -52,6 +59,13 @@
         },
         {
             "filename": "put-on-map.md",
+            "attr": {
+                "data-background": "../resources/graticule.png",
+                "data-state": "blur"
+            }
+        },
+        {
+            "filename": "put-on-map-problems.md",
             "attr": {
                 "data-background": "../resources/graticule.png",
                 "data-state": "blur"
@@ -95,6 +109,20 @@
             }
         },
         {
+            "filename": "sentinel-polarization-select.md",
+            "attr": {
+                "data-background": "../resources/back2.jpg",
+                "data-state": "blur"
+            }
+        },
+        {
+            "filename": "sentinel-dynamic-range.md",
+            "attr": {
+                "data-background": "../resources/back2.jpg",
+                "data-state": "blur"
+            }
+        },
+        {
             "filename": "syntool-timeline.md",
             "attr": {
                 "data-background": "../resources/back2.jpg",
@@ -102,7 +130,7 @@
             }
         },
         {
-            "filename": "syntool-dynamic.md",
+            "filename": "syntool-calendar.md",
             "attr": {
                 "data-background": "../resources/back2.jpg",
                 "data-state": "blur"
@@ -138,6 +166,13 @@
         },
         {
             "filename": "syntool-sar-2.md",
+            "attr": {
+                "data-background": "../resources/back2.jpg",
+                "data-state": "blur"
+            }
+        },
+        {
+            "filename": "landsat.md",
             "attr": {
                 "data-background": "../resources/back2.jpg",
                 "data-state": "blur"
